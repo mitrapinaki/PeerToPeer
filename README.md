@@ -22,6 +22,10 @@ The peer sender or the client thread, resposible to connecte to other peers and 
 ##  OutPutLog 
 In the ReadMe.doc
 
+## Compilation
+Go to the Debug folder and run 
+`make all` to compile
+`make clean` to clean
 
 ##  How To Test:
 A sample test is provided under the “Test” folder.
