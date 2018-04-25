@@ -33,8 +33,7 @@ The `Test` directory contains a simple structure of a P2P setup with 2 peers, Pe
 
 ## Environment/Tools:
 A Linux ubuntu desltop:
-`uname -a`
-Linux pmlap 4.4.0-119-generic #143-Ubuntu SMP Mon Apr 2 16:08:24 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Linux 4.4.0-119-generic #143-Ubuntu SMP Mon Apr 2 16:08:24 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
 Compiler : C++14
 Editor: Eclipse
 
